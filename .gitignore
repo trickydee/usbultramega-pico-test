@@ -1,0 +1,17 @@
+# Build directories
+build-pico/
+build/
+
+# macOS
+.DS_Store
+
+# Backup files
+*.backup
+*~
+
+# Old/test image files
+atari_mono2.h
+atari_mono2_bmp.h
+atari_mono2_raw.h
+raspberry26x32.h
+
