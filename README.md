@@ -118,3 +118,7 @@ The main application displays the Atari logo on the SSD1306 OLED display. Modify
 
 This is a test repository for experimentation. Feel free to use it as a reference or starting point for your own projects.
 
+
+This command can be used to resize images
+
+/opt/homebrew/Cellar/imagemagick/7.1.2-8_1/bin/magick /Users/rich/Downloads/atari-mono.jpg --resize 128x64 /Users/rich/Downloads/atari-mono2.jpg
